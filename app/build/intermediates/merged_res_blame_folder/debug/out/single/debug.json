@@ -1,0 +1,490 @@
+[
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_a.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_hello.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\hello.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_k.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\k.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_yes.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/yes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_activity_learning_letters.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\activity_learning_letters.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_y.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\y.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_info_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\info_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_meet.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/meet.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_d.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\d.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_w.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/w.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_activity_landing.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\activity_landing.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_p.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/p.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_learn.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/learn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_lock.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\lock.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_i.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/i.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_r.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_j.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\j.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_b.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\color_bg_nav_item.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\color\\bg_nav_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_c.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\c.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_iloveyou.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/iloveyou.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_tfl2_logo.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\tfl2_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_airplane.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\airplane.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_v.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/v.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_h.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/h.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_ok.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/ok.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_q.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\q.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_tell.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/tell.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_x.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\x.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_o.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/o.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_b.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\b.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_icn_chevron_up.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\icn_chevron_up.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_p.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\p.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_q.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/q.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_where.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\where.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_please.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/please.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_church.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\church.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_f.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/f.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_family.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\family.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_n.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/n.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_hello.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/hello.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_bye.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/bye.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_m.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_stop.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\stop.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_pen.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/pen.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_telephone.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\telephone.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_s.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\s.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_h.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\h.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_item_gesture_recognizer_result.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\item_gesture_recognizer_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_thankyou.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/thankyou.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_e.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\e.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_v.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\v.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_c.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/c.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_t.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/t.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_love.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\love.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_deaf.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/deaf.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_s.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/s.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_l.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/l.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_ic_baseline_photo_camera_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\ic_baseline_photo_camera_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_sorry.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\sorry.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_iam.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\iam.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_media_pipe_banner.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\media_pipe_banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_d.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_help.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_a.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\a.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_tfl2_logo_dark.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\tfl2_logo_dark.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_r.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/r.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_k.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/k.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_notok.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/notok.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_u.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\u.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_activity_learning.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\activity_learning.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_n.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\n.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\menu_menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\menu\\menu_bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_e.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/e.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_name.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/name.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_time.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\time.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_y.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/y.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_icn_chevron_down.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\icn_chevron_down.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_key.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\key.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_g.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\g.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_me.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/me.jpg"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_j.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/j.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_ic_minus.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\ic_minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_t.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\t.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_ship.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\ship.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_pray.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\pray.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_no.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/no.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_i.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\i.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_w.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\w.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_f.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\f.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_x.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/x.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_ic_baseline_photo_library_24.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\ic_baseline_photo_library_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\layout_fragment_camera.xml.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\layout\\fragment_camera.xml"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_u.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/u.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_no.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\no.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_money.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\money.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_home.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\home.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_g.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/g.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_z.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\z.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_o.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\o.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_fine.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\fine.png"
+    },
+    {
+        "merged": "com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:/drawable_m.jpg.flat",
+        "source": "com.google.mediapipe.examples.gesturerecognizer.app-main-51:/drawable/m.jpg"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_iloveyou.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\iloveyou.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_ihateyou.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\ihateyou.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_water.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\water.png"
+    },
+    {
+        "merged": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-merged_res-49:\\drawable_l.png.flat",
+        "source": "C:\\Users\\DELL\\.gradle\\daemon\\7.4\\com.google.mediapipe.examples.gesturerecognizer.app-main-51:\\drawable\\l.png"
+    }
+]
